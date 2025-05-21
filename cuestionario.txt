@@ -1,11 +1,15 @@
 1. ¿Cuáles son los principales desafíos que enfrentan las organizaciones al 
 adoptar Scrum y cómo pueden superarlos? 
 
+Bryan Jara:
+Al final del dia, Scrum no es un sistema escrito en piedra, si no que es una forma de trabajo que esta constantemente buscando aprovacion/validacion/cambios para mejorar dentra una organizacion, muchas veces las empresas solo se centran en adoptar scrum pero no se dan cuenta de que tienen que seguir buscando formas de hacerlo eficiente acoplandose a las necesidades del negocio. Otro desafio que enfrenta es que no puede ser una metodologia inculcada por una persona, si no que la empresa tiene que estar en sintonia para que todos trabajen de acorde y no se "majen" al estar trabajando en lo que se cree que puede reducir costos/tiempo... es un esfuerzo organizacional.
+
+
 2. ¿Por qué la transición a Scrum no puede ser completamente top-down o 
 bottom-up? 
 
-
-"La transición a Scrum no puede venir solo de los jefes ni solo de los equipos. Si se impone desde arriba, los equipos no se sienten parte del cambio. Y si los equipos quieren cambiar pero no tienen apoyo, se les complica. Por eso, para que Scrum funcione bien, todos deben estar alineados y trabajar juntos."
+Dereck:
+La transición a Scrum no puede venir solo de los jefes ni solo de los equipos. Si se impone desde arriba, los equipos no se sienten parte del cambio. Y si los equipos quieren cambiar pero no tienen apoyo, se les complica. Por eso, para que Scrum funcione bien, todos deben estar alineados y trabajar juntos.
 
 
 3. ¿Qué impacto tiene Scrum en la productividad y los costos de desarrollo en 
@@ -16,7 +20,8 @@ La adopción de Scrum no solo mejora la productividad al fomentar un entorno de 
 
 4. ¿Cómo afecta Scrum la satisfacción y el compromiso de los empleados dentro 
 de una organización?
-Johel
+
+Johel:
 Mayor autonomía y control del trabajo
 Los equipos Scrum son autoorganizados, lo que permite a los empleados tomar decisiones sobre cómo abordar su trabajo. Esto genera sentido de pertenencia y motivación.
 
@@ -31,7 +36,6 @@ Estudios citados en el capítulo muestran que el trabajo con Scrum permite un ri
 
 Mejor equilibrio vida-trabajo
 El enfoque en la sostenibilidad y la entrega continua permite organizar mejor el tiempo y evitar sobrecarga laboral.
-
 
 Francisco:
 Scrum impacta positivamente la satisfacción y el compromiso de los empleados porque promueve la colaboración, la comunicación abierta y la autonomía en la toma de decisiones. Al trabajar en equipos organizados y con metas claras a corto plazo (sprints), los empleados sienten mayor control sobre su trabajo. Además, las reuniones frecuentes (como las retrospectivas) permiten resolver problemas rápidamente y reconocer logros, lo que incrementa la eficiencia.
