@@ -7,6 +7,10 @@ bottom-up?
 
 3. ¿Qué impacto tiene Scrum en la productividad y los costos de desarrollo en 
 comparación con los enfoques tradicionales? 
+
+Rae Vega:
+La adopción de Scrum no solo mejora la productividad al fomentar un entorno de trabajo más colaborativo y adaptable, sino que también contribuye a la reducción de costos de desarrollo al optimizar procesos y minimizar desperdicios. Esto lo convierte en una opción atractiva frente a enfoques tradicionales en diversas industrias.
+
 4. ¿Cómo afecta Scrum la satisfacción y el compromiso de los empleados dentro 
 de una organización?
 
