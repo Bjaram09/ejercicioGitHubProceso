@@ -3,7 +3,10 @@ adoptar Scrum y cómo pueden superarlos?
 
 2. ¿Por qué la transición a Scrum no puede ser completamente top-down o 
 bottom-up? 
+
+
 "La transición a Scrum no puede venir solo de los jefes ni solo de los equipos. Si se impone desde arriba, los equipos no se sienten parte del cambio. Y si los equipos quieren cambiar pero no tienen apoyo, se les complica. Por eso, para que Scrum funcione bien, todos deben estar alineados y trabajar juntos."
+
 
 3. ¿Qué impacto tiene Scrum en la productividad y los costos de desarrollo en 
 comparación con los enfoques tradicionales? 
@@ -13,7 +16,23 @@ La adopción de Scrum no solo mejora la productividad al fomentar un entorno de 
 
 4. ¿Cómo afecta Scrum la satisfacción y el compromiso de los empleados dentro 
 de una organización?
+Johel
+Mayor autonomía y control del trabajo
+Los equipos Scrum son autoorganizados, lo que permite a los empleados tomar decisiones sobre cómo abordar su trabajo. Esto genera sentido de pertenencia y motivación.
+
+Resultados visibles y frecuentes
+Al entregar software funcional cada sprint, los empleados ven el impacto de su trabajo rápidamente, lo que aumenta la satisfacción.
+
+Mejora del ambiente de trabajo
+Se fomenta la colaboración, la comunicación constante y la eliminación de barreras entre roles. Esto crea relaciones laborales más sanas y entornos menos jerárquicos.
+
+Reducción del estrés y horas extra
+Estudios citados en el capítulo muestran que el trabajo con Scrum permite un ritmo sostenible. Por ejemplo, se redujo el promedio de horas extra de 19% a 7% en un equipo estudiado.
+
+Mejor equilibrio vida-trabajo
+El enfoque en la sostenibilidad y la entrega continua permite organizar mejor el tiempo y evitar sobrecarga laboral.
 
 
 Francisco:
 Scrum impacta positivamente la satisfacción y el compromiso de los empleados porque promueve la colaboración, la comunicación abierta y la autonomía en la toma de decisiones. Al trabajar en equipos organizados y con metas claras a corto plazo (sprints), los empleados sienten mayor control sobre su trabajo. Además, las reuniones frecuentes (como las retrospectivas) permiten resolver problemas rápidamente y reconocer logros, lo que incrementa la eficiencia.
+
