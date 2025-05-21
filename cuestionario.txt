@@ -6,3 +6,7 @@ bottom-up?
 comparación con los enfoques tradicionales? 
 4. ¿Cómo afecta Scrum la satisfacción y el compromiso de los empleados dentro 
 de una organización?
+
+
+Francisco:
+Scrum impacta positivamente la satisfacción y el compromiso de los empleados porque promueve la colaboración, la comunicación abierta y la autonomía en la toma de decisiones. Al trabajar en equipos organizados y con metas claras a corto plazo (sprints), los empleados sienten mayor control sobre su trabajo. Además, las reuniones frecuentes (como las retrospectivas) permiten resolver problemas rápidamente y reconocer logros, lo que incrementa la eficiencia.
